@@ -1,0 +1,7 @@
+path: C:/Users/Dell/Pictures/Screenshots/kablo/kablo_zip.zip/obj_train_data # dataset root dir
+train: C:/Users/Dell/Desktop/yolo/train # train images (relative to 'path')
+val: C:/Users/Dell/Desktop/yolo/val # val images (relative to 'path')
+
+# Classes
+names:
+  0: kesik_kablo
